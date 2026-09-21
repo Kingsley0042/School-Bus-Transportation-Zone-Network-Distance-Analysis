@@ -1,3 +1,7 @@
+<img width="900" height="500" alt="Students by network distance to assigned school" src="https://github.com/user-attachments/assets/78a999d2-a0f2-4509-bf16-94f4b9e40296" />
+<img width="900" height="500" alt="school_eligibility_comparison" src="https://github.com/user-attachments/assets/b21dedf8-b329-4687-af2e-85b0b2897fdf" />
+<img width="3507" height="2480" alt="1-Mile Network Eligibility" src="https://github.com/user-attachments/assets/7cc5d631-a2ae-4559-a88d-0ea021f3e690" />
+<img width="3507" height="2480" alt="0 5 Mile Network Eligibility" src="https://github.com/user-attachments/assets/c0f8bfeb-e01f-44a7-8d52-096393fa78f6" />
 # School Bus Network Analysis
 
 A GIS and network analysis project for evaluating school transportation eligibility using street-network distance.
